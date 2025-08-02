@@ -3,8 +3,6 @@ Bot inteligente multiplataforma capaz de recibir facturas en formato de imagen v
 
 ---
 
-📘 **Documentación completa del sistema**
-
 ### 🧠 Funcionalidad general
 - Recepción de imagen desde apps de mensajería.
 - Extracción de texto mediante OCR.
@@ -27,7 +25,7 @@ Bot inteligente multiplataforma capaz de recibir facturas en formato de imagen v
   - **OCR**: Tesseract / Google Vision / Azure Form Recognizer
   - **Base de datos**: PostgreSQL / Supabase
   - **IA conversacional**: OpenAI API con RAG para contexto
-  - **Orquestador**: n8n o Make para gestionar flujo completo
+  - **Orquestador**: n8n para gestionar flujo completo
 - **Seguridad**:
   - Autenticación de usuario por número/ID
   - Acceso por token para consulta segura
